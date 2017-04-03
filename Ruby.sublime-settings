@@ -1,0 +1,12 @@
+// These settings override both User and Default settings for the Ruby syntax
+{
+	"default_encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"rulers": [79],
+	"ensure_newline_at_eof_on_save": true,
+	"tab_size": 2,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "index_files": true,
+    "word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"
+}
